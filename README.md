@@ -1,5 +1,6 @@
 
-For the final, I have chosen to do 3 bar charts and 1 3D chart,
+For the final, I have chosen to do 3 bar charts and 1 3D chart using JTablesaw. 
+
 I have used bar charts mostly as they are the simplest way to show how data would look like a line chart (by looking at the difference
 between the heights of the data points), as well as to show critical information such as the colored differences shown in 
 blue and red for differentiating a category with only two values such as Survived or Sex and their counts and categorize them 
