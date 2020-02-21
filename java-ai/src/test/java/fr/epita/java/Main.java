@@ -121,7 +121,7 @@ public class Main {
 			 		    
 			 		   Plot.show(
 			 				  Scatter3DPlot.create(
-			 			            "Average retail price for champagnes by vintage and rating",
+			 			            "Fare Parents or Children aboard age and survial",
 			 			            titanic,
 			 			            "Fare",
 			 			            "Parents/Children Aboard", 
